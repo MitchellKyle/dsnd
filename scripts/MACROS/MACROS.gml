@@ -1,0 +1,1 @@
+#macro NO_DIRECTION (-1)
